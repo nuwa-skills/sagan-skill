@@ -4,10 +4,9 @@
 
 ### 以宇宙视角重新审视一切问题
 
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-blue.svg)](https://claude.ai)
-[![Nuwa](https://img.shields.io/badge/女娲.skill-人物视角-orange.svg)](https://github.com/Panmax/awesome-nuwa)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 *科学传播 / 宇宙视角 / 怀疑精神 / 淡蓝小点*
 
 </div>
@@ -92,10 +91,17 @@ sagan-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)
 
+
+## 更多 Skill
+
+更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
+
 ---
 
 <div align="center">
 
-MIT License | Copyright (c) 2026 Panmax
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
 
 </div>
